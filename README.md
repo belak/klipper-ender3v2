@@ -16,7 +16,7 @@
 
 ## Macros
 
-This also includes a numnber of macros, primarily modified from users in the Prusa3D discord.
+This also includes a number of macros, primarily modified from users in the Prusa3D discord.
 
 - `CG28` - issue a `G28` if not already homed
 - `LOAD_FILAMENT` - convenience macro for preheating and loading filament, from Discord
